@@ -1,0 +1,8 @@
+.container {
+  display: flex;
+  justify-content: center;
+}
+.hover:hover {
+  filter: contrast(0.7);
+  cursor: pointer;
+}
